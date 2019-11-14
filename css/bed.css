@@ -1,0 +1,23 @@
+body{
+    background-color: #363636;
+    color:#fff8f0;
+    font-family: Quicksand; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 100; 
+    line-height: 28px;
+}
+
+.bed{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:20%;
+    height:auto;
+}
+
+.introtext{
+    text-align: center;
+    font-variant: small-caps;
+}
